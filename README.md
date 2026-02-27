@@ -9,7 +9,7 @@ Hiya, I'm Abit ✨<br><br>🧠 Computer science student at Malmo University.
 ![](https://nirzak-streak-stats.vercel.app/?user=AbitVeseli&theme=date_night&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbitVeseli&theme=date_night&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AbitVeseli&theme=date_night&no-frame=true&no-bg=false&margin-w=4)
+<!--## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=AbitVeseli&theme=date_night&no-frame=true&no-bg=false&margin-w=4) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
